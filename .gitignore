@@ -1,0 +1,12 @@
+# KiroCrew CLI (nicht Teil des Projekts)
+.kiro/settings/
+
+# OS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+
+# Logs / temporär
+*.log
